@@ -1,0 +1,14 @@
+Warning[205] ..\OMAR\EJERCICIO1\PRACTICA1 - ENCENDIDO_LEDS.ASM 1 : Found directive in column 1. (LIST)
+Warning[205] ..\OMAR\EJERCICIO1\PRACTICA1 - ENCENDIDO_LEDS.ASM 2 : Found directive in column 1. (INCLUDE)
+Warning[205] ..\OMAR\EJERCICIO1\PRACTICA1 - ENCENDIDO_LEDS.ASM 3 : Found directive in column 1. (__CONFIG)
+Message[303] ..\OMAR\EJERCICIO1\PRACTICA1 - ENCENDIDO_LEDS.ASM 3 : Program word too large.  Truncated to core size. (E032)
+Warning[205] ..\OMAR\EJERCICIO1\PRACTICA1 - ENCENDIDO_LEDS.ASM 4 : Found directive in column 1. (__CONFIG)
+Message[303] ..\OMAR\EJERCICIO1\PRACTICA1 - ENCENDIDO_LEDS.ASM 4 : Program word too large.  Truncated to core size. (FEFF)
+Warning[205] ..\OMAR\EJERCICIO1\PRACTICA1 - ENCENDIDO_LEDS.ASM 5 : Found directive in column 1. (CBLOCK)
+Warning[207] ..\OMAR\EJERCICIO1\PRACTICA1 - ENCENDIDO_LEDS.ASM 12 : Found label after column 1. (INICIA)
+Message[302] ..\OMAR\EJERCICIO1\PRACTICA1 - ENCENDIDO_LEDS.ASM 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] ..\OMAR\EJERCICIO1\PRACTICA1 - ENCENDIDO_LEDS.ASM 16 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] ..\OMAR\EJERCICIO1\PRACTICA1 - ENCENDIDO_LEDS.ASM 20 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] ..\OMAR\EJERCICIO1\PRACTICA1 - ENCENDIDO_LEDS.ASM 159 : Found directive in column 1. (END)
+Message[303] ..\OMAR\EJERCICIO1\PRACTICA1 - ENCENDIDO_LEDS.ASM 159 : Program word too large.  Truncated to core size. (E032)
+Message[303] ..\OMAR\EJERCICIO1\PRACTICA1 - ENCENDIDO_LEDS.ASM 159 : Program word too large.  Truncated to core size. (FEFF)

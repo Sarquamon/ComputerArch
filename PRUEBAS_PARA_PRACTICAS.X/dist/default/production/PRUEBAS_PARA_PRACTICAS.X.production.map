@@ -1,0 +1,99 @@
+MPLINK 5.09, LINKER
+Linker Map File - Created Tue Nov 06 17:34:31 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00015e
+                   .cinit    romdata   0x0000af    program   0x000004
+.config_2007_BUILD/DEFAULT/PRODUCTION/_EXT/15       code   0x002007    program   0x000002
+.config_2008_BUILD/DEFAULT/PRODUCTION/_EXT/15       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x0000b0      
+                            0x002007    0x002008      
+            179 out of 8455 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                  DELAY_0   0x000093    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+               DELAY_10MS   0x00009c    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             DELAY_10MS_0   0x0000a2    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+                     FOR1   0x000016    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+                     FOR2   0x000019    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+                     FOR3   0x00001c    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+                   INICIA   0x000000    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+                     MAIN   0x000010    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+                 RET_0001   0x0000aa    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+               RET_0001_0   0x0000ac    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+                 RET_50MS   0x00008d    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_A   0x000071    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_B   0x000085    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_C   0x000081    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_E   0x000089    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_H   0x000065    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+           SECUENCIA_HOLA   0x000020    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_I   0x00007d    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_L   0x00006d    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_O   0x000069    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_P   0x000075    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+           SECUENCIA_POZA   0x000035    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+           SECUENCIA_RICA   0x00004a    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_Z   0x000079    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+          SEC_APAGADO_DIG   0x000062    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+          SEC_APAGADO_LED   0x00005f    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             _.org_0_0094   0x000094    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             _.org_0_0096   0x000096    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             _.org_0_0099   0x000099    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             _.org_0_009A   0x00009a    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             _.org_0_00A3   0x0000a3    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             _.org_0_00A5   0x0000a5    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             _.org_0_00A8   0x0000a8    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIA   0x000000    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+                     MAIN   0x000010    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+                     FOR1   0x000016    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+                     FOR2   0x000019    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+                     FOR3   0x00001c    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+           SECUENCIA_HOLA   0x000020    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+           SECUENCIA_POZA   0x000035    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+           SECUENCIA_RICA   0x00004a    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+          SEC_APAGADO_LED   0x00005f    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+          SEC_APAGADO_DIG   0x000062    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_H   0x000065    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_O   0x000069    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_L   0x00006d    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_A   0x000071    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_P   0x000075    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_Z   0x000079    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_I   0x00007d    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_C   0x000081    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_B   0x000085    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+              SECUENCIA_E   0x000089    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+                 RET_50MS   0x00008d    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+                  DELAY_0   0x000093    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             _.org_0_0094   0x000094    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             _.org_0_0096   0x000096    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             _.org_0_0099   0x000099    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             _.org_0_009A   0x00009a    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+               DELAY_10MS   0x00009c    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             DELAY_10MS_0   0x0000a2    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             _.org_0_00A3   0x0000a3    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             _.org_0_00A5   0x0000a5    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+             _.org_0_00A8   0x0000a8    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+                 RET_0001   0x0000aa    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+               RET_0001_0   0x0000ac    program     static ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.asm
+
+

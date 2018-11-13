@@ -1,0 +1,19 @@
+Warning[205] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 1 : Found directive in column 1. (LIST)
+Warning[205] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 2 : Found directive in column 1. (INCLUDE)
+Warning[205] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 3 : Found directive in column 1. (__CONFIG)
+Message[303] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 3 : Program word too large.  Truncated to core size. (E032)
+Warning[205] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 4 : Found directive in column 1. (__CONFIG)
+Message[303] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 4 : Program word too large.  Truncated to core size. (FEFF)
+Warning[205] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 5 : Found directive in column 1. (CBLOCK)
+Warning[207] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 15 : Found label after column 1. (INICIA)
+Message[302] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 17 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 18 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 22 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 26 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 41 : Using default destination of 1 (file).
+Message[305] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 46 : Using default destination of 1 (file).
+Message[305] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 51 : Using default destination of 1 (file).
+Warning[203] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 54 : Found opcode in column 1. (GOTO)
+Warning[207] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 194 : Found label after column 1. (SECUENCIA_E)
+Message[303] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 250 : Program word too large.  Truncated to core size. (E032)
+Message[303] ..\OMAR\EJERCICIO2\PRACTICA1-LEDSGRANDES.ASM 250 : Program word too large.  Truncated to core size. (FEFF)
